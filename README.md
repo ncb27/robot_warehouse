@@ -3,10 +3,10 @@ En este proyecto se trabajará en programar y simular un robot diferencial el cu
 # requerimientos
 Para poder realizar este proyecto fue necesario:
 -    Contar con un sistema con Ubuntu 20.04
--    Contar con el programa de ROS noetic
+-    Contar con el programa de ROS noetic http://wiki.ros.org/noetic/Installation/Ubuntu
 -    Contar con el programa de SolidWorks
--    Contar con el programa de Gazebo
--    Contar con el programa de RVIZ
+-    Contar con el programa de Gazebo https://classic.gazebosim.org/tutorials?tut=install_ubuntu
+-    Contar con el programa de RVIZ https://howtoinstall.co/es/rviz
 # funcionamiento
 ## solidworks
 Para el diseño de este robot fue necesario dividirlo en varias partes, la primera fue la base ya que con esta pieza tomamos medidas para poder tener el resto de las piezas a esa escala, luego diseñamos una tapa para la base ya que era necesario dejar un espacio para todo el circuito y las tarjetas que nuestro robot necesita para su funcionamiento, luego diseñamos una cinta transportadora para lanzar las cajas y por último las ruedas y la rueda loca.
