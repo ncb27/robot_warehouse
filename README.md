@@ -52,3 +52,8 @@ Para la cámara necesitamos hacer un controlador para obtener la imagen que la c
 ![image](https://user-images.githubusercontent.com/99926615/167060336-01d05558-d385-4dc1-9586-704406fa1ecc.png)
 
 # Resultados
+Las siguientes imágenes muestran lo obtenido en Gazeboo:
+
+![image](https://user-images.githubusercontent.com/99926615/167060827-6a5c9ceb-ace2-41ef-9e0f-c9c0b6ffc56e.png)
+![image](https://user-images.githubusercontent.com/99926615/167060844-dd79d724-b3ba-448c-8877-942fa5ccd07e.png)
+
