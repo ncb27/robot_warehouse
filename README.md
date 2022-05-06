@@ -15,3 +15,5 @@ Para las partes en URDF se simplificó el cuerpo para un rectángulo de 80mx60cm
 ## Gazebo
 
 ## RVIZ
+
+# instrucciones
